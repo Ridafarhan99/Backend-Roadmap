@@ -34,4 +34,9 @@ When working on a team, you often need a remote place to put your code so others
 ### GitHub
 GitHub is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.  
 ***Other Options:***
-* GitLab, Bitbucket
+* GitLab, Bitbucket  
+
+<br>
+
+## OS & General Knowledge
+Operating System is a program that manages a computer’s resources, especially the allocation of those resources among other programs. Typical resources include the central processing unit (CPU), computer memory, file storage, input/output (I/O) devices, and network connections.  
